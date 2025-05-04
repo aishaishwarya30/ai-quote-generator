@@ -10,4 +10,4 @@ A simple web app that generates motivational quotes at the click of a button. Bu
 ## Installation
 To run this project locally, clone this repository:
 ```bash
-git clone https://github.com/your-username/ai-quote-generator.git
+git clone https://github.com/aishaishwarya30/ai-quote-generator.git
